@@ -2,7 +2,7 @@
 A Simple Express JS website with complete functionality
 
 <h4>Home Page for The Blogging Website</h4>
-![Home](https://user-images.githubusercontent.com/81731490/196035936-13660e73-3814-4ac2-8c3a-3468bf18dfa0.jpeg)
+![image](https://user-images.githubusercontent.com/81731490/196035971-42ad284c-25a3-47d9-9866-f4d77b2c5d5d.png)
 
 
 <h4>Blop Page Displaying all Blogs</h4>
