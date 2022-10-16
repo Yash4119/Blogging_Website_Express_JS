@@ -2,6 +2,7 @@
 A Simple Express JS website with complete functionality
 
 <h4>Home Page for The Blogging Website</h4>
+<img src="https://user-images.githubusercontent.com/81731490/196035971-42ad284c-25a3-47d9-9866-f4d77b2c5d5d.png">
 ![image](https://user-images.githubusercontent.com/81731490/196035971-42ad284c-25a3-47d9-9866-f4d77b2c5d5d.png)
 
 
